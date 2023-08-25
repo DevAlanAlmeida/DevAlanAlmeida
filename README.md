@@ -7,8 +7,10 @@
  <a href="https://discordapp.com/users/1084247457011077120" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alanalmeidadev12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alan-almeida-281149224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
+![Alan Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAlanAlmeida&show_icons=true&theme=radical)
+
 
 
  
@@ -29,7 +31,7 @@
 </div>
 
  
-### Other Knowledge:
+### OTHER KNOWLEDGE:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -40,7 +42,7 @@
 </div>
 
   
-### Studying in this moment:
+### STUDYING IN THIS MOMENT:
 <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 
 
