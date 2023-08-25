@@ -41,7 +41,8 @@
 
   
 ### Studying in this moment:
-![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=Kotlin&labelColor=0D1117)&nbsp;
+<img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
