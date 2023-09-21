@@ -9,6 +9,8 @@
   <a href="https://www.linkedin.com/in/alan-almeida-281149224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAlanAlmeidaanuraghazra&show_icons=true&bg_color=00000000)
+
  
 ### SKILLS:
 <div style="display: inline_block"><br/>
